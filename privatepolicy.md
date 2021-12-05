@@ -13,7 +13,7 @@ This app do not require payement. It is a free app with ads (Google AdMobs).
 
 I designed the app in a manner that the ads are not intrusive and follow the Google Guidlines.
 
-This app uses AdMobs services from goolge: https://developers.google.com/admob
+This app uses AdMobs services from google: https://developers.google.com/admob
 
 Google privacy policy can be found (English): https://policies.google.com/privacy?hl=en
 
