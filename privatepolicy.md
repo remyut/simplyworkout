@@ -20,7 +20,7 @@ Google privacy policy can be found (English): https://policies.google.com/privac
 
 # Politique de confidentialité (FRANCAIS)
 
-Simply Workout ("Remy Saksik", "remyut", "Je", "L'application") utilise the site web: https://github.com/remyut/simplyworkout et les applications iOS et Android (collectivement le "Service").
+Simply Workout ("Remy Saksik", "remyut", "Je", "L'application") utilise le site web : https://github.com/remyut/simplyworkout et les applications iOS et Android (collectivement le "Service").
 
 Cette politique de confidentialité a été compilée pour mieux servir ceux qui sont préoccupés par la façon dont leur vie privée.
 
